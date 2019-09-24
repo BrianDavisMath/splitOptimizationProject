@@ -1,11 +1,7 @@
 """
 Produced at the University of Kentucky Markey Cancer Center
 03/2019
-by Brian Davis and Sally Ellingson
-with funds from grant ####.
-
-Example usage:
-
+by Brian Davis and Sally Ellingson.
 """
 
 import warnings
